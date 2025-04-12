@@ -1,0 +1,6 @@
+[submodule "whisper.cpp"]
+	path = whisper.cpp
+	url = https://github.com/ggml-org/whisper.cpp
+[submodule "whisper-cpp-python"]
+	path = whisper-cpp-python
+	url = https://github.com/carloscdias/whisper-cpp-python

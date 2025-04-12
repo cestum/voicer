@@ -1,0 +1,4 @@
+whisper-cpp-python
+sounddevice
+numpy
+bleak
